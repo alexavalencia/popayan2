@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Popayán</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="titulo">POPAYÁN</string>
+    <string name="subtitulo1">The White City</string>
+    <string name="sutitulo2">Of Colombia</string>
+    <string name="contenido">Here you will find beautiful churches, cathedrals, plazas and museums to visit; so be sure to enjoy the magic of the city, lost in their small and quiet streets</string>
+
+    <string-array name="menu">
+        <item>HOTELS</item>
+        <item>BARS</item>
+        <item>TOURISM</item>
+        <item>OVERVIEW</item>
+        <item>POPAYÁN</item>
+    </string-array>
+    <string name="title_h">HOTELS</string>
+    <string name="hotel1">Hotel Dann Monasterio</string>
+    <string name="direc1">Adress: </string>
+
+    <string name="direct2">Streat 4,Nº10-14</string>
+    <string name="servicio">pool, restaurant, meeting rooms, business center, fitness center, parking</string>
+    <string name="contac1">Phone: +57(2)8242191</string>
+
+    <string name="hotel2">Hotel San Jeronimo</string>
+    <string name="direct3">Streat 5 No10-81.</string>
+    <string name="servicioj">36 comfortable standard rooms and 4 superior standard rooms, Restaurant, Meeting Room, Terrace off, Wetland</string>
+    <string name="contac2">Phone:(2)8222020-8221090</string>
+
+    <string name="hotel3">Hotel La Plazuela</string>
+    <string name="direct4">Streat 5 No.8-13</string>
+    <string name="serviciop">Restaurant, fax, laundry, wireless</string>
+    <string name="contac3">Phone:+(572)8241084</string>
+
+    <string name="hotel4">Hotel Boutique Confort Suites</string>
+    <string name="direct5">Streat 8 N°2N-25B</string>
+    <string name="serviciob">Restaurant, tour farms, internet, massage, bar</string>
+    <string name="contac4">Phone:(57)(2)823-1680</string>
+
+    <string name="bares">Bars</string>
+
+    <string name="name_mile">Millenio Dance Club Popayán</string>
+    <string name="mile_publi">Millenio Dance Club is the most popular club among young people of Popayan and an excellent place to visit if you are after a long party, with music blaring crossover while enjoying a cold beer or a cocktail</string>
+    <string name="mile_dir">Streat 9 N°64N-226</string>
+    <string name="mile_tel">Phone:(57 2)824-6734</string>
+
+    <string name="name_pena">Andina Peña Bar Popayán </string>
+    <string name="pena_publi">To test the traditional Andean night party, your best option is to visit one of the famous Peña: great local live bands playing traditional music, happy people on the dance floor and spirits from the region overnight.</string>
+    <string name="pena_dir">Streat 9 N°64N-262</string>
+    <string name="pena_tel">Phone:(57)314-777 6257</string>
+
+    <string name="name_acapela">Karaoke Acapella</string>
+    <string name="acapela_publi">Enjoy karaoke contests, drinks and share with friends </string>
+    <string name="acapela_dir">Streat 7 N°2-38</string>
+    <string name="acapela_tel">Phone:(57)311-6312191</string>
+
+    <string name="resena"> Overview</string>
+    <string name="item1_1">Capital:</string>
+    <string name="item1_2">Popayán</string>
+    <string name="item2_1">Surface:</string>
+    <string name="item2_2"> 29.308 Km2</string>
+    <string name="item3_1_1">Economy: </string>
+    <string name="item3_1"> Agriculture</string>
+    <string name="item3_2">Animal Husbandry</string>
+    <string name="item3_3">Commerce</string>
+    <string name="item3_4">Tourism</string>
+    <string name="item3_5">Services</string>
+    <string name="item4_1">Gentilicio:</string>
+    <string name="item4_2">Caucano</string>
+    <string name="item5_1">Population:</string>
+    <string name="item5_2">Popayán,the capital, has a population of 300,000 inhabitants .</string>
+
+    <string name="turimo">Tourist Places</string>
+    <string name="name_puente">El Puente del Humilladero</string>
+    <string name="info_puente">It is located in the center of the city and the Bolivar neighborhood, there a fault that makes it difficult to climb because of the name puente.El Puente del humilladero was once the main entrance to Popayan occurs. You may have missed this feature, but remains one of the most important historical monuments of the city and located on the road to El Morro de Tulcán. It was built in 1873 to cross the Mill River and, at present, it is used as a footbridge to avoid congested second streat. </string>
+
+    <string name="name_museo">Museo Casa Mosquera</string>
+    <string name="info_museo">This house was built in the eighteenth century by Don Jose Maria Mosquera and Figueroa, who left as a legacy to Tomás Cipriano de Mosquera. Over time,  house was divided into three parts:  Museum,the Historical Archives and the Smith Hotel</string>
+
+    <string name="name_reloj">Torre Del Reloj</string>
+    <string name="info_reloj">This monument was Built between 1673 and 1682, it is composed of a total of 96,000 bricks and has a clock of English origin, who was put in 1737.La Torre del reloj is located on the corner of 5th Street Race 7.</string>
+
+    <string name="name_tulcan">Morro Del Tulcán</string>
+    <string name="info_tulcan">In 1929 it was discovered this wonderful place, which was described as pyramid, but it was actually a mountain that the Indians took to perform their rites. In the place human bones, pottery and other elements of pre-Columbian character were found. There is the statue of Sebastian de Belalcazar </string>
+    <string name="acerca">About..</string>
+
+    <string name="about">About...</string>
+    <string name="titulo1">Developed by</string>
+    <string name="titulo2">Alexandra Castrillon Valencia</string>
+    <string name="titulo3">Electronic Engineering</string>
+    <string name="titulo4">Student</string>
+    <string name="titulo5">Version 1.0-2015</string>
+</resources>

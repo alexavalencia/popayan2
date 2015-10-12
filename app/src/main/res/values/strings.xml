@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Popayán</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Abrir navigation drawer</string>
+    <string name="drawer_close">Cerrar navigation drawer</string>
+    <string name="titulo">POPAYÁN</string>
+    <string name="subtitulo1">La Ciudad Blanca</string>
+    <string name="sutitulo2">De Colombia</string>
+    <string name="contenido">Aquí encontrará hermosas iglesias, catedrales, plazas
+                             y museos para visitar; así que asegúrese de disfrutar
+                             la magia de la ciudad perdiéndose en sus pequeñas y
+                             tranquilas calles</string>
+
+    <string-array name="menu">
+        <item>HOTELES</item>
+        <item>BARES</item>
+        <item>TURISMO</item>
+        <item>RESEÑA GENERAL</item>
+        <item>POPAYÁN</item>
+    </string-array>
+    <string name="title_h">HOTELES</string>
+    <string name="hotel1">Hotel Dann Monasterio</string>
+    <string name="direc1">Drcc: </string>
+
+    <string name="direct2">Cll 4,Nº10-14</string>
+    <string name="servicio">piscina, restaurante, salones de eventos, business center, sauna y turco, gimnasio, parqueadero</string>
+    <string name="contac1">Teléfono: +57(2)8242191</string>
+
+    <string name="hotel2">Hotel San Jeronimo</string>
+    <string name="direct3">Cll 5 No10-81.</string>
+    <string name="servicioj">36 confortables habitaciones estándar y 4 habitaciones estándar superior Restaurante,Salón de Eventos,Terraza de descanso,Zona Húmeda</string>
+    <string name="contac2">Teléfono:(2)8222020-8221090</string>
+
+    <string name="hotel3">Hotel La Plazuela</string>
+    <string name="direct4">Cll 5 No.8-13</string>
+    <string name="serviciop">Restaurante, telefax, lavanderia,internet inalámbrico</string>
+    <string name="contac3">Teléfono:+(572)8241084</string>
+
+    <string name="hotel4">Hotel Boutique Confort Suites</string>
+    <string name="direct5">Cra 8 N°2N-25B</string>
+    <string name="serviciob">Restaurante,tour por haciendas,internet,masajes,minibar</string>
+    <string name="contac4">Teléfono:(57)(2)823-1680</string>
+
+    <string name="bares">Bares</string>
+
+    <string name="name_mile">Millenio Dance Club Popayán</string>
+    <string name="mile_publi">Millenio Dance Club es la discoteca más popular entre la juventud de Popayán y un excelente lugar para visitar si lo que busca es una larga rumba, con música crossover a todo volumen mientras disfruta de una cerveza fría o un cóctel.</string>
+    <string name="mile_dir">Cra 9 N°64N-226</string>
+    <string name="mile_tel">Teléleno:(57 2)824-6734</string>
+
+    <string name="name_pena">Andina Peña Bar Popayán </string>
+    <string name="pena_publi">Para probar la tradicional noche de fiesta Andina, su mejor opción es visitar una de las famosas peñas: grandes locales con bandas en vivo tocando música típica, gente alegre en la pista de baile y licores de la región durante toda la noche.</string>
+    <string name="pena_dir">Cra 9 N°64N-262</string>
+    <string name="pena_tel">Télefono:(57)314-777 6257</string>
+
+    <string name="name_acapela">Karaoke Acapella</string>
+    <string name="acapela_publi">Disfruta de los concursos de karaoke,de las bebidas y de compartir con tus amigos </string>
+    <string name="acapela_dir">Cra 7 N°2-38</string>
+    <string name="acapela_tel">Télefono:(57)311-6312191</string>
+
+    <string name="resena"> RESEÑA GENERAL</string>
+    <string name="item1_1">Capital:</string>
+    <string name="item1_2">Popayán</string>
+    <string name="item2_1">Superficie:</string>
+    <string name="item2_2"> 29.308 Km2</string>
+    <string name="item3_1_1">Economia: </string>
+    <string name="item3_1"> Agricultura</string>
+    <string name="item3_2">Ganadería</string>
+    <string name="item3_3">Comercio</string>
+    <string name="item3_4">Turismo</string>
+    <string name="item3_5">Servicios</string>
+    <string name="item4_1">Gentilicio:</string>
+    <string name="item4_2">Caucano</string>
+    <string name="item5_1">Poblacion:</string>
+    <string name="item5_2">Popayán, la capital, tiene una población aproximada de 300 mil habitantes.</string>
+
+    <string name="turimo">Lugares Turisticos</string>
+    <string name="name_puente">El Puente del Humilladero</string>
+    <string name="info_puente">Se encuentra en el centro de la ciudad y el barrio Bolívar, alli ocurre una falla geológica que hace difícil la subida, razón del nombre del puente.El Puente del Humilladero fue antiguamente la entrada principal a Popayán. Puede haber perdido esta función, pero sigue siendo uno de los monumentos históricos más importantes de la ciudad y lo encuentra en el camino hacia el El Morro de Tulcán.
+    Fue construido en 1873 para cruzar el Río Molino y, en la actualidad, se utiliza como un puente peatonal para evitar la congestionada Calle Segunda. </string>
+
+    <string name="name_museo">Museo Casa Mosquera</string>
+    <string name="info_museo">Esta casa fue construida en el siglo XVIII por Don José María Mosquera y Figueroa, quién la dejo como herencia a Tomás Cipriano de Mosquera. Con el paso del tiempo,la casa se dividió en tres partes:el Museo, el Archivo Histórico y el Hotel el Herrero</string>
+
+    <string name="name_reloj">Torre Del Reloj</string>
+    <string name="info_reloj">Este monumento fue contruido entre 1673 y 1682, esta compuesto por un total de 96 mil ladrillos y tiene un reloj de origen inglés, que fue puesto en 1737.La Torre del reloj se encuentra en la esquina de la carrera 7 con calle 5.</string>
+
+    <string name="name_tulcan">Morro Del Tulcán</string>
+    <string name="info_tulcan">En 1929 se descubrió este maravilloso lugar,que fue calificado como piramide, pero era en verdad una montaña que los indigenas aprovecharon para realizar sus ritos.En el lugar se encontraron huesos humanos, cerámicas y otros elementos de carácter precolombino.Allí se encuentra la estatua de Sebastián de Belalcázar</string>
+    <string name="acerca">Acerca De</string>
+
+    <string name="about">Acerca De...</string>
+    <string name="titulo1">Desarrollado Por</string>
+    <string name="titulo2">Alexandra Castrillon Valencia</string>
+    <string name="titulo3">Estudiante De</string>
+    <string name="titulo4">Ingenieria Electrónia</string>
+    <string name="titulo5">Version 1.0-2015</string>
+</resources>
